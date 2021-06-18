@@ -3,6 +3,7 @@
 - **Arrays**
 	- Accept and Display
 	- Insert At Particular Index
+	- Delete from Particular Index
 - **Linked List** 
 	- Create and Display Singly Linked List
 - **Stack**
