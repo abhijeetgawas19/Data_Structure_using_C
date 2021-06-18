@@ -5,6 +5,7 @@
 	- Insert At Particular Index
 	- Delete from Particular Index
 	- Linear Search
+	- Binary Search
 - **Linked List** 
 	- Create and Display Singly Linked List
 - **Stack**
