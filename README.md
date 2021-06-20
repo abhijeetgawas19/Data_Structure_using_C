@@ -6,6 +6,7 @@
 	- Delete from Particular Index
 	- Linear Search
 	- Binary Search
+	- Get and Set Element at Particular Index
 - **Linked List** 
 	- Create and Display Singly Linked List
 - **Stack**
