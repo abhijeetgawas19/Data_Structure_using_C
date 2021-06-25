@@ -10,6 +10,7 @@
 	- Maximum and Minimum Element from Array
 	- Sum and Average of Elements from Array
 	- Reverse a Array Elements
+	- Merge 2 Arrays
 - **Linked List** 
 	- Create and Display Singly Linked List
 - **Stack**
