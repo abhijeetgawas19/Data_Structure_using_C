@@ -11,6 +11,7 @@
 	- Sum and Average of Elements from Array
 	- Reverse a Array Elements
 	- Merge 2 Arrays
+	- Check if Array is Sorted or Not?
 - **Linked List** 
 	- Create and Display Singly Linked List
 - **Stack**
