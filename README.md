@@ -13,6 +13,8 @@
 	- Merge 2 Arrays
 	- Check if Array is Sorted or Not (Equal Distances)?
 	- Check if Array is Sorted or Not (Unequal Distances)?
+	- Set Operations
+		- Union 
 - **Linked List** 
 	- Create and Display Singly Linked List
 - **Stack**
