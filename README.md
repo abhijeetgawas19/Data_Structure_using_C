@@ -15,6 +15,7 @@
 	- Check if Array is Sorted or Not (Unequal Distances)?
 	- Set Operations
 		- Union 
+		- Intersection
 - **Linked List** 
 	- Create and Display Singly Linked List
 - **Stack**
