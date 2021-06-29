@@ -22,3 +22,5 @@
 	- Create and Display Stack
 - **Queue**
 	- Create, Insert, Delete, Display Queue
+- **String**
+	- Length of String (without built-in function)
