@@ -24,3 +24,4 @@
 	- Create, Insert, Delete, Display Queue
 - **String**
 	- Length of String (without built-in function)
+	- Convert to UpperCase, LowerCase, MixedCase.
