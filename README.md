@@ -26,3 +26,4 @@
 	- Length of String (without built-in function)
 	- Convert to UpperCase, LowerCase, MixedCase.
 	- Count the Words, Vowels, Consonants from the String.
+	- Validate the String.
