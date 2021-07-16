@@ -28,3 +28,4 @@
 	- Count the Words, Vowels, Consonants from the String.
 	- Validate the String.
 	- Reverse the String.
+	- Palindromic String.
