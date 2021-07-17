@@ -29,3 +29,4 @@
 	- Validate the String.
 	- Reverse the String.
 	- Palindromic String.
+	- Duplicate Characters in String.
