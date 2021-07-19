@@ -30,3 +30,4 @@
 	- Reverse the String.
 	- Palindromic String.
 	- Duplicate Characters in String.
+	- Strings are Anagrams or Not.
