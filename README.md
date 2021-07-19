@@ -18,6 +18,7 @@
 		- Intersection.
 - **Linked List** 
 	- Create and Display Singly Linked List.
+	- Count Number of Nodes in Linked List.
 - **Stack**
 	- Create and Display Stack.
 - **Queue**
