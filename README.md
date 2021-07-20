@@ -19,6 +19,7 @@
 - **Linked List** 
 	- Create and Display Singly Linked List.
 	- Count Number of Nodes in Linked List.
+	- Sum of Linked List Elements.
 - **Stack**
 	- Create and Display Stack.
 - **Queue**
