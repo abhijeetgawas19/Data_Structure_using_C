@@ -21,6 +21,7 @@
 	- Count Number of Nodes in Linked List.
 	- Sum of Linked List Elements.
 	- Search Element in Linked List.
+	- Maximum and Minimum Elements in Linked List.
 - **Stack**
 	- Create and Display Stack.
 - **Queue**
