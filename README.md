@@ -22,6 +22,7 @@
 	- Sum of Linked List Elements.
 	- Search Element in Linked List.
 	- Maximum and Minimum Elements in Linked List.
+	- Insert All Location (Beginning, Middle, End).
 - **Stack**
 	- Create and Display Stack.
 - **Queue**
