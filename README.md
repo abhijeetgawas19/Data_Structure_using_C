@@ -25,6 +25,7 @@
 	- Insert All Location (Beginning, Middle, End).
 	- Delete All Location (Beginning, Middle, End).
 	- Linked List Elements are Sorted or Not?.
+	- Remove Duplicate Elements from Linked List.
 - **Stack**
 	- Create and Display Stack.
 - **Queue**
