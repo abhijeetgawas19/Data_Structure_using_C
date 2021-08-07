@@ -27,6 +27,7 @@
 	- Linked List Elements are Sorted or Not?.
 	- Remove Duplicate Elements from Linked List.
 	- Display the Linked List Reverse Order and Reverse the Linked List.
+	- Concatenation of 2 Linked List
 - **Stack**
 	- Create and Display Stack.
 - **Queue**
