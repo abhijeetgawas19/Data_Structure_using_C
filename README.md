@@ -17,17 +17,22 @@
 		- Union .
 		- Intersection.
 - **Linked List** 
-	- Create and Display Singly Linked List.
-	- Count Number of Nodes in Linked List.
-	- Sum of Linked List Elements.
-	- Search Element in Linked List.
-	- Maximum and Minimum Elements in Linked List.
-	- Insert All Location (Beginning, Middle, End).
-	- Delete All Location (Beginning, Middle, End).
-	- Linked List Elements are Sorted or Not?.
-	- Remove Duplicate Elements from Linked List.
-	- Display the Linked List Reverse Order and Reverse the Linked List.
-	- Concatenation of 2 Linked List
+	- **Singly Linked List**	 	
+		- Create and Display Singly Linked List.
+		- Count Number of Nodes in Linked List.
+		- Sum of Linked List Elements.
+		- Search Element in Linked List.
+		- Maximum and Minimum Elements in Linked List.
+		- Insert All Location (Beginning, Middle, End).
+		- Delete All Location (Beginning, Middle, End).
+		- Linked List Elements are Sorted or Not?.
+		- Remove Duplicate Elements from Linked List.
+		- Display the Linked List Reverse Order and Reverse the Linked List.
+		- Concatenation of 2 Linked List
+		- Loop in the Linked List
+	- **Circular Linked List** 
+	- **Doubly Linked List**
+	- **Circular Doubly Linked List**
 - **Stack**
 	- Create and Display Stack.
 - **Queue**
