@@ -28,9 +28,10 @@
 		- Linked List Elements are Sorted or Not?.
 		- Remove Duplicate Elements from Linked List.
 		- Display the Linked List Reverse Order and Reverse the Linked List.
-		- Concatenation of 2 Linked List
-		- Loop in the Linked List
+		- Concatenation of 2 Linked List.
+		- Loop in the Linked List.
 	- **Circular Linked List** 
+		- Create and Display Circular Singly Linked List. 
 	- **Doubly Linked List**
 	- **Circular Doubly Linked List**
 - **Stack**
