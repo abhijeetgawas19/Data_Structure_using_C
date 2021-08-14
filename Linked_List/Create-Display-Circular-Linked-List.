@@ -1,0 +1,53 @@
+#include<stdio.h>
+#include<stdlib.h>
+struct Node{
+	int data;
+	struct Node *next;
+};
+struct Node *head = NULL;
+struct Node *tail = NULL;
+void create(int data)
+{
+	if(head == NULL && tail==NULL)
+	{
+		struct Node *newNode = (struct Node*)malloc(sizeof(struct Node));
+		newNode->data = data;
+		newNode->next = head;
+		head = newNode;
+		tail = newNode;
+	}
+	else
+	{
+		struct Node *newNode = (struct Node*)malloc(sizeof(struct Node));
+		newNode->data = data;
+		tail->next = newNode;
+		tail = newNode;
+		newNode->next = head; // Circular Linked List
+	}
+}
+void display()
+{
+	struct Node *t=head;
+	printf("%d ",t->data);
+	t = t->next;
+	while(t!=head)
+	{
+		printf("%d ",t->data);
+		t = t->next;
+	}
+		printf("\n");
+}
+int main()
+{
+	int size,x,i;
+	printf("Enter the Total Elements to be Inserted\n");
+	scanf("%d",&size);
+	for(i=1;i<=size;i++)
+	{
+		printf("Enter the %d element\n",i);
+		scanf("%d",&x);
+		create(x);
+	}
+		display();
+	return 0;
+}
