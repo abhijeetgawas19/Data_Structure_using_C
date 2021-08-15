@@ -32,6 +32,7 @@
 		- Loop in the Linked List.
 	- **Circular Linked List** 
 		- Create and Display Circular Singly Linked List. 
+		- Insert All Location (Beginning, Middle, End).
 	- **Doubly Linked List**
 	- **Circular Doubly Linked List**
 - **Stack**
