@@ -35,6 +35,7 @@
 		- Insert All Location (Beginning, Middle, End).
 		- Delete All Location (Beginning, Middle, End).
 	- **Doubly Linked List**
+		- Create and Display Doubly Linked List. 	
 	- **Circular Doubly Linked List**
 - **Stack**
 	- Create and Display Stack.
